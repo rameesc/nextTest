@@ -1,6 +1,6 @@
 import {connectToDatabase} from '../../../../../untils/database';
 
-import {Prompt} from '../../../models/prompt'
+import {Prompt} from '../../../../../models/prompt'
 
 export const GET=async(req,{params})=>{
     try{
