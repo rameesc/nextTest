@@ -1,4 +1,4 @@
-import {connectToDatabase} from '../../../untils/database';
+import {connectToDatabase} from '../../../../../untils/database';
 
 import {Prompt} from '../../../models/prompt'
 
